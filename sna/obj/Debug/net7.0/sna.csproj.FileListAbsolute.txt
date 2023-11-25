@@ -1,0 +1,14 @@
+D:\С моего компа\Project MPT\Проекты Visual Studio\ОАИП\sna\sna\bin\Debug\net7.0\sna.exe
+D:\С моего компа\Project MPT\Проекты Visual Studio\ОАИП\sna\sna\bin\Debug\net7.0\sna.deps.json
+D:\С моего компа\Project MPT\Проекты Visual Studio\ОАИП\sna\sna\bin\Debug\net7.0\sna.runtimeconfig.json
+D:\С моего компа\Project MPT\Проекты Visual Studio\ОАИП\sna\sna\bin\Debug\net7.0\sna.dll
+D:\С моего компа\Project MPT\Проекты Visual Studio\ОАИП\sna\sna\bin\Debug\net7.0\sna.pdb
+D:\С моего компа\Project MPT\Проекты Visual Studio\ОАИП\sna\sna\obj\Debug\net7.0\sna.GeneratedMSBuildEditorConfig.editorconfig
+D:\С моего компа\Project MPT\Проекты Visual Studio\ОАИП\sna\sna\obj\Debug\net7.0\sna.AssemblyInfoInputs.cache
+D:\С моего компа\Project MPT\Проекты Visual Studio\ОАИП\sna\sna\obj\Debug\net7.0\sna.AssemblyInfo.cs
+D:\С моего компа\Project MPT\Проекты Visual Studio\ОАИП\sna\sna\obj\Debug\net7.0\sna.csproj.CoreCompileInputs.cache
+D:\С моего компа\Project MPT\Проекты Visual Studio\ОАИП\sna\sna\obj\Debug\net7.0\sna.dll
+D:\С моего компа\Project MPT\Проекты Visual Studio\ОАИП\sna\sna\obj\Debug\net7.0\refint\sna.dll
+D:\С моего компа\Project MPT\Проекты Visual Studio\ОАИП\sna\sna\obj\Debug\net7.0\sna.pdb
+D:\С моего компа\Project MPT\Проекты Visual Studio\ОАИП\sna\sna\obj\Debug\net7.0\sna.genruntimeconfig.cache
+D:\С моего компа\Project MPT\Проекты Visual Studio\ОАИП\sna\sna\obj\Debug\net7.0\ref\sna.dll
